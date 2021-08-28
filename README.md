@@ -2,7 +2,7 @@
 
 🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
 - 👋 Hi, I’m @Mayra1207
-🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
+- 🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
 - 👀 Soy estudiante del Instituto Tecnologico de Tijuana
 
 - 💻 Estoy estudiando Ing. Sistemas Computacionales.
@@ -11,7 +11,7 @@
 
 - Mi signo es Libra ⚖♎
 
-Mi horario escolar es el siguiente: 📆
+Mi horario escolar es el siguiente: 📆📅
  -----------------------------------------------------------------------------------
 | H | Lunes         | Martes        | Miercoles     | Jueves        | Viernes       |
 |---|---------------|---------------|---------------|---------------|---------------|
