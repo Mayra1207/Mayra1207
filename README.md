@@ -1,5 +1,5 @@
-![](https://images.cooltext.com/5549110.png) width="392" height="97" alt="Mayra Bamaca" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3917458017">Create An Image Just Like This</a>
+![](https://images.cooltext.com/5549110.png)<!--- width="392" height="97" alt="Mayra Bamaca" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3917458017">Create An Image Just Like This</a> --->
 - 👋 Hi, I’m @Mayra1207
 - 
 - 👀 Soy estudiante del Instituto Tecnologico de Tijuana
