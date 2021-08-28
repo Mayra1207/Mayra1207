@@ -2,12 +2,16 @@
 
 
 - 👋 Hi, I’m @Mayra1207
-- 
-- 👀 Soy estudiante del Instituto Tecnologico de Tijuana
-- Estoy estudiando Ing. Sistemas Computacionales.
-- Es mi primera vez utilizando github.
 
-Mi horario escolar es el siguiente:
+- 👀 Soy estudiante del Instituto Tecnologico de Tijuana
+
+- 💻 Estoy estudiando Ing. Sistemas Computacionales.
+
+- 🐱 Es mi primera vez utilizando github.
+
+- Mi signo es Libra ⚖♎
+
+Mi horario escolar es el siguiente: 📆
  -----------------------------------------------------------------------------------
 | H | Lunes         | Martes        | Miercoles     | Jueves        | Viernes       |
 |---|---------------|---------------|---------------|---------------|---------------|
