@@ -8,17 +8,12 @@ Mi horario escolar es el siguiente:
 | H | Lunes         | Martes        | Miercoles     | Jueves        | Viernes       |
 |---|---------------|---------------|---------------|---------------|---------------|
 | O | Métodos Num.  | Métodos Num.  | Métodos Num   | Métodos Num   | Libre         |
-|---|---------------|---------------|---------------|---------------|---------------|
 | R | Ecuaciones D. | Ecuaciones D. | Ecuaciones D. | Ecuaciones D. | Ecuaciones D. |
-|---|---------------|---------------|---------------|---------------|---------------|
 | A | Fundamentos BD| Fundamentos BD| Fundamentos BD| Fundamentos BD| Fundamentos BD|
-|---|---------------|---------------|---------------|---------------|---------------|
 | R | Simulacion    | Simulacion    | Simulacion    | Simulacion    | Simulacion    |
-|---|---------------|---------------|---------------|---------------|---------------|
 | I | Estructura D. | Estructura D. | Estructura D. | Estructura D. | Estructura D. |
-|---|---------------|---------------|---------------|---------------|---------------|
 | O | Lenguajes Int.| Lenguajes Int.| Lenguajes Int.| Lenguajes Int.| Libre         |
-|---|---------------|---------------|---------------|---------------|---------------|
+
 
 <!---
 Mayra1207/Mayra1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
