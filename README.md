@@ -1,8 +1,8 @@
 ![](https://images.cooltext.com/5549110.png)
 
-🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
+ 🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
 - 👋 Hi, I’m @Mayra1207
-- 🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
+ 🌻🌺🌹🌷🌼🌸🌻🌺🌹🌷🌼🌸
 - 👀 Soy estudiante del Instituto Tecnologico de Tijuana
 
 - 💻 Estoy estudiando Ing. Sistemas Computacionales.
