@@ -1,14 +1,24 @@
 - 👋 Hi, I’m @Mayra1207
-- 👀  Actualmente me encuentro estudiando la universidad, estoy  estudiando Ing. Sistemas Computacionales.
-Es mi primera vez usando github.
-| H | Lunes                        | Martes                       | Miercoles                    | Jueves                       | Viernes                      |
-|---|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| O | Métodos numéricos            | Métodos numéricos            | Métodos numéricos            | Métodos numéricos            | Libre                        |
-| R | Ecuaciones diferenciales     | Ecuaciones diferenciales     | Ecuaciones diferenciales     | Ecuaciones diferenciales     | Ecuaciones diferenciales     |
-| A | Fundamentos de base de datos | Fundamentos de base de datos | Fundamentos de base de datos | Fundamentos de base de datos | Fundamentos de base de datos |
-| R | Simulacion                   | Simulacion                   | Simulacion                   | Simulacion                   | Simulacion                   |
-| I | Estructura de datos          | Estructura de datos          | Estructura de datos          | Estructura de datos          | Estructura de datos          |
-| O | Lenguajes de interfaz        | Lenguajes de interfaz        | Lenguajes de interfaz        | Lenguajes de interfaz        | Libre                        |
+- 👀 Soy estudiante del Instituto Tecnologico de Tijuana
+- Estoy estudiando Ing. Sistemas Computacionales.
+- Es mi primera vez utilizando github.
+
+Mi horario escolar es el siguiente:
+ -----------------------------------------------------------------------------------
+| H | Lunes         | Martes        | Miercoles     | Jueves        | Viernes       |
+|---|---------------|---------------|---------------|---------------|---------------|
+| O | Métodos Num.  | Métodos Num.  | Métodos Num   | Métodos Num   | Libre         |
+|---|---------------|---------------|---------------|---------------|---------------|
+| R | Ecuaciones D. | Ecuaciones D. | Ecuaciones D. | Ecuaciones D. | Ecuaciones D. |
+|---|---------------|---------------|---------------|---------------|---------------|
+| A | Fundamentos BD| Fundamentos BD| Fundamentos BD| Fundamentos BD| Fundamentos BD|
+|---|---------------|---------------|---------------|---------------|---------------|
+| R | Simulacion    | Simulacion    | Simulacion    | Simulacion    | Simulacion    |
+|---|---------------|---------------|---------------|---------------|---------------|
+| I | Estructura D. | Estructura D. | Estructura D. | Estructura D. | Estructura D. |
+|---|---------------|---------------|---------------|---------------|---------------|
+| O | Lenguajes Int.| Lenguajes Int.| Lenguajes Int.| Lenguajes Int.| Libre         |
+|---|---------------|---------------|---------------|---------------|---------------|
 
 <!---
 Mayra1207/Mayra1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
