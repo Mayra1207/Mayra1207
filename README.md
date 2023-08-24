@@ -9,7 +9,7 @@
 
 - 🐱 Es mi primera vez utilizando github.
 
-- Mi signo es Libra ⚖♎
+-  ⚖♎
 
 Mi horario escolar es el siguiente: 📆📅
  -----------------------------------------------------------------------------------
@@ -20,7 +20,7 @@ Mi horario escolar es el siguiente: 📆📅
 | A | Fundamentos BD| Fundamentos BD| Fundamentos BD| Fundamentos BD| Fundamentos BD|
 | R | Simulacion    | Simulacion    | Simulacion    | Simulacion    | Simulacion    |
 | I | Estructura D. | Estructura D. | Estructura D. | Estructura D. | Estructura D. |
-| O | Lenguajes Int.| Lenguajes Int.| Lenguajes Int.| Lenguajes Int.| Libre         |
+| O | | | | | Libre         |
 
 
 <!---
